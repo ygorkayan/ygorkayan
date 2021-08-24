@@ -1,3 +1,3 @@
-### Fala pessoal!!
+### Fala pessoa :)
 
-Eu sou o Ygor, desenvolvedor front-end, apaixonado por Javascript, porém não foi minha primeira linguagem. Comecei com java, onde aprendi tudo sobre programação, passei também por Python, C# e PHP, e hoje me dedico ao Javascript, porque com ela consigo desenvolver tudo o que quero.
+Eu comecei muito cedo no mundo da tecnologia, criei servidores de alguns jogos que jogava como Mu, Pw e WoW, e com o tempo foi indo para programação, onde comecei com java, com ela aprendi os pilares da programação, mas com o tempo tive contato com o front-end e me apaixonei, hoje trabalho com React, Styled Component, GraphQL e outros, e como gosto de entender como as coisas funcionam ando mexendo com C++ para entender e controlar mais o hardware.
