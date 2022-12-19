@@ -1,3 +1,3 @@
-### Fala pessoa :)
+### Speak People :)
 
-Eu comecei muito cedo no mundo da tecnologia, criei servidores de alguns jogos que jogava, como Mu, Pw e WoW, e com o tempo foi indo para programação, onde comecei com java, com ela aprendi os pilares da programação, passei também por C#, Python, PHP mas foi pelo front-end que me apaixonei, hoje trabalho com React, Styled Component, GraphQL, Jest, Node, Git e outros.
+I started very early in the world of technology, making server of some games that played like Mu, PW and WOW, with time i am going to programming, started with java, with his learn the cornerstone of programming, learn also C#, Python, PHP, today i work with Front End, React, Styled Component, GraphQL, Jest, Node, Git but I always study Back End also with Java and its ecosystem.
