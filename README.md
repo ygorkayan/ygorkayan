@@ -1,5 +1,11 @@
 ### hello :)
 
-A lifelong passion for technology and programming has led me to develop a diverse skill set in a wide range of languages, frameworks, and tools, including C#, PHP, Python, Go, Rust, and C/C++. My current focus is on the JavaScript ecosystem, where I build interactive web solutions.
+Full-Stack Developer & Platform Modernization Specialist
 
-As a Frontend Developer at Americanas, a leading Brazilian e-commerce company, I'm leading the development of a new site using Next.js, GraphQL, Fastify, and TypeScript to enhance user experience and performance. This modern application integrates with various microservices and APIs. Previously as a Backend Developer, I successfully migrated all services from Ansible to Metaplane, gaining valuable visibility into AWS pods, metrics, logs, and costs. I also implemented key features and provided maintenance for projects in various Java versions.
+Experienced developer with a strong background in architecting, maintaining, and modernizing large-scale web platforms across government and e-commerce sectors. Key contributions include:
+
+- Design System Leadership: Core team member responsible for the creation and maintenance of the Ágora Design System for AMA, ensuring UI/UX consistency and development efficiency for all new Portuguese government websites.
+
+- Critical Healthcare Software: Responsible for updating and maintaining SIMH (the government's core medical episode recording software) and SIMH Training (the dedicated platform for physician medical coders).
+
+- E-commerce Platform Development: Currently spearheading the development of a new Marketplace for seller product registration and management. Previous experience includes high-volume feature implementation and maintenance for major e-commerce brands like Americanas, Submarino, and Shoptime as part of the Catalogo Team.
